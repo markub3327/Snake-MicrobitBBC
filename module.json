@@ -1,0 +1,11 @@
+{
+  "name": "snake",
+  "version": "1.0.0",
+  "bin": "./source",
+  "description": "Snake game like on Nokia mobile phones",
+  "author": "Martin Kubovcik",
+  "license": "MIT",
+  "dependencies": {
+        "microbit": "lancaster-university/microbit#v2.1.1"
+  }
+}
